@@ -8,9 +8,11 @@ A **100% offline** period tracker for Android: zero network permission, no ads, 
 
 ## 📸 截图 / Screenshots
 
-| 日历 Calendar | 分析 Insights |
+| 亮色 · 日历 | 亮色 · 分析 |
 | --- | --- |
 | ![calendar](screenshots/calendar.png) | ![stats](screenshots/stats.png) |
+| **暗色 · 日历** | **暗色 · 分析** |
+| ![calendar-dark](screenshots/calendar-dark.png) | ![stats-dark](screenshots/stats-dark.png) |
 
 ## 📥 下载 / Download
 
